@@ -32,7 +32,39 @@ Below are the five demonstrations per mission that were provided to VisualDemo-C
 
 ## Generated swarm behaviours
 
-Below are the final positions of the robot swarm obtained by the best FSM find across the 10 independent design process. The [videos of the generated behaviors](https://liveudenaredu-my.sharepoint.com/:u:/g/personal/juanpab_m_udenar_edu_co/ETi7LlS8gXNFoqQIaqHKB_kBJCyAECujWhuEivGT_WIIpQ?e=IH0x1Y) are available for download.
+### Videos of generated behaviours
+
+### HOMING 
+
+<iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/peViW_xVwms" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
+
+### AAC
+
+<iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/1Cw_eXjcJlk" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
+
+### CFA
+
+<iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/YtJw9aorN-4" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
+
+### Final positions of the robot swarm obtained by the best FSM find across the 10 independent design process.
 
 ### HOMING
 
